@@ -1,0 +1,5 @@
+biodata 
+
+nama : dimas ajie putra
+kelas : 4ia20
+npm : 50421382
